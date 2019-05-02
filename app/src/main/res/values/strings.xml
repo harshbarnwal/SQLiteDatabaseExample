@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">SQLite DatabaseExample</string>
+    <string name="enter_firstName">Enter first Name</string>
+    <string name="enter_lastName">Enter last Name</string>
+    <string name="save">Save</string>
+    <string name="load_all">Load All</string>
+    <string name="delete">Delete</string>
+    <string name="update">Update</string>
+    <string name="delete_text">Enter the id number to be deleted</string>
+    <string name="ok">Ok</string>
+    <string name="cancel">Cancel</string>
+    <string name="old_username_text">Enter old Username</string>
+    <string name="new_username_text">Enter new Username</string>
+    <string name="vegeta">Vegeta</string>
+    <string name="goku">Goku</string>
+</resources>

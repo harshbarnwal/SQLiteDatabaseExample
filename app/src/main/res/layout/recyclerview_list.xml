@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    android:orientation="horizontal"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:gravity="center"
+    android:layout_height="wrap_content">
+
+    <TextView
+        android:id="@+id/display_firstName"
+        android:text="@string/vegeta"
+        android:textSize="25sp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@color/colorAccent"/>
+
+    <TextView
+        android:id="@+id/display_lastName"
+        android:text="@string/goku"
+        android:textSize="25sp"
+        android:layout_marginLeft="5dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@color/colorAccent"
+        android:layout_marginStart="10dp" />
+
+
+</LinearLayout>
